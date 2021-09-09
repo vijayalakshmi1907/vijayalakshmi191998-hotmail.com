@@ -1,0 +1,50 @@
+Difference between SDLC and STLC
+
+SDLC                                                       STLC             
+
+software development life cycle                       software testing Life cycle
+
+the sequence of activities carried out              the sequence of activities carried out                                                       
+int SDLC are                                         in STLC are
+
+Requirement Analysis                                        
+                                                         Requirement Analysis
+        |                                                        |                                                                            
+        v                                                        v                                                                                             
+  Software Design                                        Test Planning
+        |                                                        |
+        v                                                        v
+   software buid                                         Test case Development
+        |                                                        |
+        v                                                        v
+     testing                                            Test Environment Setup
+        |                                                         |
+        v                                                         v
+    deployment                                        Test Execution & Test Closure
+        |
+        v
+   Maintenance
+
+*SDLC is mainly related to Hardware development        *It is mainly related to software testing
+
+*In SDLC  other phases along with that testing is      *IT only focus on Testing
+also included 
+
+*SDLC involves six phases                              *STLC involves five phases
+
+*In SDLC more number of people are required            *In STLC less number of people are required
+(developers)                                           (testers)
+
+*In this Development team makes the plans and          *In this STLC testing team makes the plan and Design
+design            
+
+*Goal of the SDLC is successfull development of        * goal of STLC is to complete successfull testing of software
+ software  
+
+*it helps in developing good quality software          *  It helps in making the software defect free
+
+*SDLC phases are completed before STLC phases          * the STLC phases are performedc after SDLC phases      
+
+
+
+
